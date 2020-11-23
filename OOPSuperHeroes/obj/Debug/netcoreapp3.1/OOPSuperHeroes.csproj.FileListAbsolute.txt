@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\OOPSuperHeroes\OOPSuperHeroes\bin\Debug\netcoreapp3.1\OOPSuperHeroes.exe
+C:\Users\Roland Strod\source\repos\OOPSuperHeroes\OOPSuperHeroes\bin\Debug\netcoreapp3.1\OOPSuperHeroes.deps.json
+C:\Users\Roland Strod\source\repos\OOPSuperHeroes\OOPSuperHeroes\bin\Debug\netcoreapp3.1\OOPSuperHeroes.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\OOPSuperHeroes\OOPSuperHeroes\bin\Debug\netcoreapp3.1\OOPSuperHeroes.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\OOPSuperHeroes\OOPSuperHeroes\bin\Debug\netcoreapp3.1\OOPSuperHeroes.dll
+C:\Users\Roland Strod\source\repos\OOPSuperHeroes\OOPSuperHeroes\bin\Debug\netcoreapp3.1\OOPSuperHeroes.pdb
+C:\Users\Roland Strod\source\repos\OOPSuperHeroes\OOPSuperHeroes\obj\Debug\netcoreapp3.1\OOPSuperHeroes.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\OOPSuperHeroes\OOPSuperHeroes\obj\Debug\netcoreapp3.1\OOPSuperHeroes.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\OOPSuperHeroes\OOPSuperHeroes\obj\Debug\netcoreapp3.1\OOPSuperHeroes.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\OOPSuperHeroes\OOPSuperHeroes\obj\Debug\netcoreapp3.1\OOPSuperHeroes.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\OOPSuperHeroes\OOPSuperHeroes\obj\Debug\netcoreapp3.1\OOPSuperHeroes.dll
+C:\Users\Roland Strod\source\repos\OOPSuperHeroes\OOPSuperHeroes\obj\Debug\netcoreapp3.1\OOPSuperHeroes.pdb
+C:\Users\Roland Strod\source\repos\OOPSuperHeroes\OOPSuperHeroes\obj\Debug\netcoreapp3.1\OOPSuperHeroes.genruntimeconfig.cache
